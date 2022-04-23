@@ -1,0 +1,10 @@
+{
+    "email": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "from": "user@gmail.com",
+        "to": "touser@163.com",
+        "user": "user@gmail.com",
+        "password": "password"
+    }
+}
